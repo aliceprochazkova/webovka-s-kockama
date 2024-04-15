@@ -1,0 +1,24 @@
+body{
+    margin:30px;
+    text-decoration: dotted;
+    background-color: rgb(239, 121, 182);
+    color:rgb(165, 17, 133)
+    
+}
+header{
+    margin: 30px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-image: url("1000_F_291430012_TKbtFEsqFQt84AIRvd8zd0AiKy1X6dUP.jpg");
+}
+a:link:hover{
+    color: #7fffd4;
+}
+a:link:focus{
+    color:aqua
+}
+a:link{ 
+    text-decoration: none;
+    margin:40px
+}
